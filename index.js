@@ -1,4 +1,4 @@
-/**
+ /**
  * Selects the element with the id 'main-heading' and changes its text content to 'DOM Manipulation Challenge'.
  */
 function changeHeadingText() {
